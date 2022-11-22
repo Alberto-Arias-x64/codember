@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "file_1":"npx tsnd --respawn --clear ./reto_01.ts",
-    "file_2":"npx tsnd --respawn --clear ./reto_02.ts"
+    "file_2":"npx tsnd --respawn --clear ./reto_02.ts",
+    "file_3":"npx tsnd --respawn --clear ./reto_03.ts"
   },
   "keywords": [],
   "author": "",
